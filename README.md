@@ -13,8 +13,8 @@ I am the true unicorn you want to know. JS/node ninja, Gopher, and blockchain lo
 
 ## My passion is
 - Launching and managing projects
-- Software Engineer, web specific.
+- Software Engineer, web specific
 - JS/Node, Golang
 - Building software from zero to one
 
-> I live in Berkeley, but I am willing to meet in SF or south bay.
+> I currently live in Berkeley, but I am willing to meet in SF or the lovely south bay.
