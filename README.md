@@ -1,5 +1,5 @@
 # Resume
-I am the true unicorn you want to know. JS/node ninja, Gopher, and blockchain lover. Find my resume [here](https://github.com/amazingandyyy/resume/blob/master/Andy_Chen_Resume_2017_Fall.pdf)
+I am the true unicorn you want to know. JS/node ninja, Gopher, and blockchain lover. Although I am not a resume person, but if you want, you can find my resume [here](https://github.com/amazingandyyy/resume/blob/master/Andy_Chen_Resume_2017_Fall.pdf).
 
 ## Contact me
 - 📧 amazingandyyy@gmail.com
