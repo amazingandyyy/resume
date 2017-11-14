@@ -11,4 +11,10 @@ I am the true unicorn you want to know. JS/node ninja, Gopher, and blockchain lo
 - [Github](https://github.com/amazingandyyy)
 - [Medium](https://medium.com/@amazingandyyy)
 
->> I live in Berkeley, but I am willing to meet in SF or south bay.
+## My passion is(I am good at)
+- Launching and managing projects
+- Software Engineer, web specific.
+- JS/Node, Golang
+- Building software from zero to one
+
+> I live in Berkeley, but I am willing to meet in SF or south bay.
