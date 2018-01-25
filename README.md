@@ -1,8 +1,8 @@
-# Resume
+# Andy Chen
 I am the true unicorn you want to know. JS/node ninja, Gopher, and blockchain lover. Although I am not a resume person, but if you want, you can find my latest resume [here](https://github.com/amazingandyyy/Resume/blob/master/Andy_Chen_Resume_2018_Spring.pdf).
 
 ## Here to find me
-- [website](https://www.amazingandyyy.com)(https://www.amazingandyyy.com)
+- [Website](https://www.amazingandyyy.com)(https://www.amazingandyyy.com)
 - [Linkedin](https://www.linkedin.com/in/amazingandyyy/)(https://www.linkedin.com/in/amazingandyyy/)
 - [Github](https://github.com/amazingandyyy)(https://github.com/amazingandyyy)
 - [Medium](https://medium.com/@amazingandyyy)(https://medium.com/@amazingandyyy)
