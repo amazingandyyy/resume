@@ -14,10 +14,10 @@ I am the true unicorn you want to know. JS/node ninja, Gopher, and blockchain lo
 
 
 ## My passion is
-- Launching and scaling software
-- Blockchain developer, ethereum specific
+- Initiate project and launch software
+- Blockchain developer, EVM(ethereum, Vechain, QTUM) specific
 - Software Engineer, web specific
-- JS/Node, Golang
+- JS/Node, Golang, Solidity
 - Building software from zero to one
 
-> I currently live in Berkeley, but I am willing to meet in SF or the lovely south bay.
+> I currently live in SF Bay Area, willing to meet in anywhere around the lovely valley.
