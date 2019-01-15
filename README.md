@@ -1,5 +1,8 @@
 # Andy Chen 🦄
-I am the true unicorn you want to know. JS/node ninja, Gopher, and blockchain lover. Although I am not a resume person, but if you want, you can find my latest resume [here](https://amazingandyyy.com/resume/Andy_Chen_Resume_2019.pdf).
+
+*Rich experience in full-stack software engineering with full product life-cycle and open source contribution. I care about user experience as much as internal/external developer experience, with multiple experiences in working with a cross-functional team. Currently earned AWS Certified Solutions Architect Associate.*
+
+Find my latest resume [here](https://amazingandyyy.com/resume/Andy_Chen_Resume_2019.pdf).
 
 ## Here to find me
 - [Website](https://www.amazingandyyy.com)(https://www.amazingandyyy.com)
