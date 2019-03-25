@@ -5,14 +5,14 @@
 Find my latest resume [here](https://amazingandyyy.com/resume/Andy_Chen_Resume_2019.pdf).
 
 ## Here to find me
-- [Website](https://www.amazingandyyy.com)(https://www.amazingandyyy.com)
-- [Github](https://github.com/amazingandyyy)(https://github.com/amazingandyyy)
-- [Linkedin](https://www.linkedin.com/in/amazingandyyy/)(https://www.linkedin.com/in/amazingandyyy/)
-- [Medium](https://medium.com/@amazingandyyy)(https://medium.com/@amazingandyyy)
+- Website: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)
+- Github: [https://github.com/amazingandyyy](https://github.com/amazingandyyy)
+- Linkedin: [https://www.linkedin.com/in/amazingandyyy/](https://www.linkedin.com/in/amazingandyyy/)
+- Medium - [https://medium.com/@amazingandyyy](https://medium.com/@amazingandyyy)
 
 ## Contact me
-- 📧 amazingandyyy@gmail.com
-- or chat me on linkedin
+- Email via amazingandyyy@gmail.com
+- DM on [linkedin](https://www.linkedin.com/in/amazingandyyy/)(https://www.linkedin.com/in/amazingandyyy/)
 
 ## My passion is
 - Initiate project and launch software
@@ -21,4 +21,4 @@ Find my latest resume [here](https://amazingandyyy.com/resume/Andy_Chen_Resume_2
 - JS/Node, Golang, Solidity
 - Building software from zero to one
 
-> I currently live in SF Bay Area, willing to meet in anywhere around the lovely valley.
+> I currently live in San Francisco(my favorite city), let's meet anywhere around the area.
