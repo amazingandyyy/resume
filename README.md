@@ -4,7 +4,7 @@
 
 Find my latest resume [here](https://amazingandyyy.com/resume/Andy_Chen_Resume_2019.pdf).
 
-## Here to find me
+## Here to find **amazingandyyy**
 - Website: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)
 - Github: [https://github.com/amazingandyyy](https://github.com/amazingandyyy)
 - Linkedin: [https://www.linkedin.com/in/amazingandyyy/](https://www.linkedin.com/in/amazingandyyy/)
@@ -12,7 +12,7 @@ Find my latest resume [here](https://amazingandyyy.com/resume/Andy_Chen_Resume_2
 
 ## Contact me
 - Email via amazingandyyy@gmail.com
-- DM on [linkedin](https://www.linkedin.com/in/amazingandyyy/)(https://www.linkedin.com/in/amazingandyyy/)
+- DM on [linkedin](https://www.linkedin.com/in/amazingandyyy/)
 
 ## My passion is
 - Initiate project and launch software
