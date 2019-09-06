@@ -10,5 +10,9 @@
   - completed on 05/16/2019
 - [x] Google Analytics Certified
   - completed on 08/05/2019
+- [x] Certified Quorum Expert
+  - completed on 08/06/2019
+- [ ] YC Startupschool Online Fall 19
+  - in progress
 - [ ] one design thinking certification
 - [ ] IDEO U Creative Leadership Certificate([detail](https://www.ideou.com/pages/creative-leadership-certificate))
