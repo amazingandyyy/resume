@@ -1,6 +1,6 @@
 # Certifications
 
-- [x] Draper University Herok training
+- [x] Draper University Hero Training
   - completed on 10/22/2018
 - [x] AWS Certified Solutions Architect - Associate 
   - completed on 01/12/2019
