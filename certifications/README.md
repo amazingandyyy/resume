@@ -11,3 +11,4 @@
 - [x] Google Analytics Certified
   - completed on 08/05/2019
 - [ ] one design thinking certification
+- [ ] IDEO U Creative Leadership Certificate([detail](https://www.ideou.com/pages/creative-leadership-certificate))
