@@ -14,7 +14,7 @@
   - completed on 08/06/2019
 - [ ] YC Startupschool Online Fall 19
   - in progress
-- [ ] one design thinking certification
+- [ ] Design thinking certification
 - [ ] IDEO U Creative Leadership Certificate([detail](https://www.ideou.com/pages/creative-leadership-certificate))
   - Storytelling for Influence: September 26 - November 3
   - Cultivating Creative Collaboration: November 7 - December 15
