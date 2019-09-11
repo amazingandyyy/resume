@@ -14,8 +14,12 @@
   - completed on 08/06/2019
 - [ ] YC Startupschool Online Fall 19
   - in progress
-- [ ] Design thinking certification
+- [ ] Design thinking certification(IDF or others, in planning)
 - [ ] IDEO U Creative Leadership Certificate([detail](https://www.ideou.com/pages/creative-leadership-certificate))
   - Storytelling for Influence: September 26 - November 3
   - Cultivating Creative Collaboration: November 7 - December 15
   - Leading for Creativity: November 7 - December 15
+- [ ] Google Cloud/AWS Big data/ML certification(in planning)
+- [ ] Kafka certification(in planning)
+- [ ] life coaching(in planning)
+- [ ] agile/sprint trainer(in planning)
