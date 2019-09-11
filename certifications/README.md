@@ -1,5 +1,9 @@
 # Certifications
 
+What I want to learn, certifiaction is just a bonus, I don't really care, neither do you.
+
+Work with me, so you know I am capable with.
+
 - [x] Draper University Hero Training
   - completed on 10/22/2018
 - [x] AWS Certified Solutions Architect - Associate 
