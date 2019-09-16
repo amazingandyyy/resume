@@ -15,6 +15,8 @@
   - completed on 08/05/2019
 - [x] Certified Quorum Expert
   - completed on 08/06/2019
+- [x] Google Ads Search Certified
+  - completed on 09/16/2019
 - [ ] YC Startupschool Online Fall 19
   - in progress
 - [ ] Design thinking certification(IDF or others, in planning)
