@@ -18,6 +18,8 @@
 - [x] Google Ads Search Certified
   - completed on 09/16/2019
 - [x] YC Startupschool Online Fall 19
+- [ ] Wine & Spirit Education Trust(WSET) LEVEL1
+  - 12/02 attended, result pending
 - [ ] Certified Kubernetes Application Developer (CKAD)
   - https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
 - [ ] OpenJS Node.js Services Developer (JSNSD)
