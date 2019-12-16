@@ -18,15 +18,15 @@
 - [x] Google Ads Search Certified
   - completed on 09/16/2019
 - [x] YC Startupschool Online Fall 19
-- [ ] Kafka certification(in planning)
+- [ ] Certified Kubernetes Application Developer (CKAD)
   - https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
 - [ ] IDEO U Creative Leadership Certificate([detail](https://www.ideou.com/pages/creative-leadership-certificate))
-  - Storytelling for Influence: September 26 - November 3
-  - Leading for Creativity: November 7 - December 15
-  - Cultivating Creative Collaboration: November 7 - December 15
+  - [ ] Storytelling for Influence: September 26 - November 3
+  - [x] Leading for Creativity: November 7 - December 15
+  - [x] Cultivating Creative Collaboration: November 7 - December 15
 - [ ] Google Cloud/AWS Big data/ML certification(in planning)
 - [ ] Design thinking certification(IDF or others, in planning)
-- [ ] OpenJS
+- [ ] OpenJS Node.js Services Developer (JSNSD)
   - https://training.linuxfoundation.org/certification/jsnsd/
 
 
