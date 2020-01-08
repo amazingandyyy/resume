@@ -20,8 +20,8 @@
 - [x] YC Startupschool Online Fall 19
 - [x] Wine & Spirit Education Trust(WSET) LEVEL1
   - 12/02 attended, passed
-- IDEO U Creative Leadership Certificate([detail](https://www.ideou.com/pages/creative-leadership-certificate))
-  - Storytelling for Influence: September 26 - November 3, dismissed
+IDEO U Creative Leadership Certificate([detail](https://www.ideou.com/pages/creative-leadership-certificate))
+  Storytelling for Influence: September 26 - November 3, dismissed
   - [x] Leading for Creativity: November 7 - December 15
   - [x] Cultivating Creative Collaboration: November 7 - December 15
 - [ ] Certified Kubernetes Application Developer (CKAD)
