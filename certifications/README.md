@@ -23,7 +23,9 @@
 - [ ] IDEO U Creative Leadership Certificate([detail](https://www.ideou.com/pages/creative-leadership-certificate))
   - [ ] Storytelling for Influence: September 26 - November 3, dismissed
   - [x] Leading for Creativity: November 7 - December 15
+     - completed on 12/12/2019
   - [x] Cultivating Creative Collaboration: November 7 - December 15
+     - completed on 12/12/2019
 - [ ] Certified Kubernetes Application Developer (CKAD)
   - https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
 - [ ] OpenJS Node.js Services Developer (JSNSD)
