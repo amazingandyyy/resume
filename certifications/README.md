@@ -18,8 +18,12 @@
 - [x] Google Ads Search Certified
   - completed on 09/16/2019
 - [x] YC Startupschool Online Fall 19
-- [ ] Wine & Spirit Education Trust(WSET) LEVEL1
-  - 12/02 attended, result pending
+- [x] Wine & Spirit Education Trust(WSET) LEVEL1
+  - 12/02 attended, passed
+- IDEO U Creative Leadership Certificate([detail](https://www.ideou.com/pages/creative-leadership-certificate))
+  - Storytelling for Influence: September 26 - November 3, dismissed
+  - [x] Leading for Creativity: November 7 - December 15
+  - [x] Cultivating Creative Collaboration: November 7 - December 15
 - [ ] Certified Kubernetes Application Developer (CKAD)
   - https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
 - [ ] OpenJS Node.js Services Developer (JSNSD)
@@ -27,9 +31,5 @@
 - [ ] Docker Certified Associate (DCA)
   - https://prod.examity.com/Docker/Student/ScheduleAnExam.aspx
   - https://www.udemy.com/course/docker-certified-associate/
-- [ ] IDEO U Creative Leadership Certificate([detail](https://www.ideou.com/pages/creative-leadership-certificate))
-  - [ ] Storytelling for Influence: September 26 - November 3
-  - [x] Leading for Creativity: November 7 - December 15
-  - [x] Cultivating Creative Collaboration: November 7 - December 15
 - [ ] Google Cloud/AWS Big data/ML certification(in planning)
 - [ ] Design thinking certification(IDF or others, in planning)
