@@ -28,6 +28,9 @@
      - completed on 12/12/2019
 - [ ] Certified Kubernetes Application Developer (CKAD)
   - https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
+- [ ] Confluent Certification for Apache Kafka (CCDAK)
+  - https://prod.examity.com/Confluent/Student/ScheduleAnExam.aspx
+  - https://medium.com/@stephane.maarek/how-to-prepare-for-the-confluent-certified-developer-for-apache-kafka-ccdak-exam-ab081994da78
 - [ ] OpenJS Node.js Services Developer (JSNSD)
   - https://training.linuxfoundation.org/certification/jsnsd/
 - [ ] Docker Certified Associate (DCA)
