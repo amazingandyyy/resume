@@ -27,7 +27,7 @@ End-to-end Software Architect
 👉 Find my latest [resume](https://amazingandyyy.com/resume/Andy_Chen_Resume_2020.pdf)
 
 ## A.K.A **amazingandyyy**
-- Me: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)
+- 🦄 Me: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)
 - Github: [https://github.com/amazingandyyy](https://github.com/amazingandyyy)
 - Linkedin: [https://www.linkedin.com/in/amazingandyyy/](https://www.linkedin.com/in/amazingandyyy/)
 - Medium - [https://medium.com/@amazingandyyy](https://medium.com/@amazingandyyy)
@@ -50,5 +50,3 @@ End-to-end Software Architect
 
 > Let's meet ☕.
 
-
-🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄
