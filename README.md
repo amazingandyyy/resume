@@ -1,6 +1,6 @@
-<h3 align="center">
+<p styles="font-size: 20rem" align="center">
 🦄
-</h3>
+</p>
 <h1 align="center">
 Andy Chen
 </h1>
