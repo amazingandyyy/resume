@@ -27,14 +27,16 @@ End-to-end software architect
 👉 Find my latest [resume](https://amazingandyyy.com/resume/Andy_Chen_Resume_2020.pdf)
 
 ## A.K.A **amazingandyyy**
-- Website: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)
+- Me: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)
 - Github: [https://github.com/amazingandyyy](https://github.com/amazingandyyy)
 - Linkedin: [https://www.linkedin.com/in/amazingandyyy/](https://www.linkedin.com/in/amazingandyyy/)
 - Medium - [https://medium.com/@amazingandyyy](https://medium.com/@amazingandyyy)
 
 ## Contact me
-- ✉️ to amazingandyyy@gmail.com
-- 💬 on [Linkedin](https://www.linkedin.com/in/amazingandyyy)
+
+✉️ to amazingandyyy@gmail.com
+
+💬 on [Linkedin](https://www.linkedin.com/in/amazingandyyy)
 
 ## My passions are
 - Initiate project and launch software
