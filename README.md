@@ -1,5 +1,5 @@
 <p styles="font-size: 20rem" align="center">
-    <img styles="margin: 20px" width="150px" src="https://i.imgur.com/jtmVNrq.png" />
+    <img styles="margin: 0px" width="150px" src="https://i.imgur.com/jtmVNrq.png" />
 </p>
 <h1 align="center">
 Andy Chen
