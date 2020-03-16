@@ -7,7 +7,7 @@ End-to-end software architect
 
 <p align="center">
    <a href="https://www.amazingandyyy.com">
-      <img height="20px" src="https://cdn2.iconfinder.com/data/icons/mobile-web-app-vol-4/32/Globe_Earth_bumi_www_web_website_universal-512.png" />
+      <img height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMT8Cjhrp7e7pmTWbyLds7Sm9Z0BIgdoD-iQCaL8Xqqcl1yIsY" />
    </a>
    <a href="https://github.com/amazingandyyy">
       <img height="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
