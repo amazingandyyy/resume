@@ -1,5 +1,5 @@
 <p styles="font-size: 20rem" align="center">
-🦄
+    <img styles="margin: 20px" width="150px" src="https://i.imgur.com/jtmVNrq.png" />
 </p>
 <h1 align="center">
 Andy Chen
@@ -49,3 +49,6 @@ End-to-end Software Architect
 > Currently live in San Francisco, my favorite city. 
 
 > Let's meet ☕.
+
+
+🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄
