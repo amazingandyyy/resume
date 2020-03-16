@@ -1,4 +1,21 @@
-# Andy Chen 🦄
+<h1 align="center">
+Andy Chen 🦄
+</h1>
+<p align="center">
+End-to-end software architect
+</p>
+
+<p align="center">
+   <a href="https://www.amazingandyyy.com">
+      <img height="20px" src="https://cdn2.iconfinder.com/data/icons/mobile-web-app-vol-4/32/Globe_Earth_bumi_www_web_website_universal-512.png" />
+   </a>
+   <a href="https://github.com/amazingandyyy">
+      <img height="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+   </a>
+   <a href="https://www.linkedin.com/in/amazingandyyy">
+      <img height="20px" src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />
+   </a>
+</p>
 
 > *Rich experience in full-stack software engineering with full product life-cycle and open source contribution. I care about user experience as much as internal/external developer experience, with multiple experiences in working with a cross-functional team. Currently earned AWS Certified Solutions Architect Associate.*
 
