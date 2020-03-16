@@ -2,7 +2,9 @@
 
 > *Rich experience in full-stack software engineering with full product life-cycle and open source contribution. I care about user experience as much as internal/external developer experience, with multiple experiences in working with a cross-functional team. Currently earned AWS Certified Solutions Architect Associate.*
 
-Find my latest resume [here](https://amazingandyyy.com/resume/Andy_Chen_Resume_2020.pdf).
+## Resume
+
+Find my latest resume [here](https://amazingandyyy.com/resume/Andy_Chen_Resume_2020.pdf)
 
 ## A.K.A **amazingandyyy**
 - Website: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)
