@@ -4,22 +4,23 @@
 
 Find my latest resume [here](https://amazingandyyy.com/resume/Andy_Chen_Resume_2020.pdf).
 
-## Know **amazingandyyy** more
+## A.K.A **amazingandyyy**
 - Website: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)
 - Github: [https://github.com/amazingandyyy](https://github.com/amazingandyyy)
 - Linkedin: [https://www.linkedin.com/in/amazingandyyy/](https://www.linkedin.com/in/amazingandyyy/)
 - Medium - [https://medium.com/@amazingandyyy](https://medium.com/@amazingandyyy)
 
 ## Contact me
-- Email via amazingandyyy@gmail.com
-- DM on [Linkedin](https://www.linkedin.com/in/amazingandyyy/)
+- Email to amazingandyyy@gmail.com
+- DM on [Linkedin](https://www.linkedin.com/in/amazingandyyy)
 
 ## My passions are
 - Initiate project and launch software
-- Blockchain infra or EVM-based(Ethereum, Vechain, QTUM, Quorum) DevOps/application
+- Software infra/architect/dev tooling
 - Software Engineer, web specific
 - Node/Typescript/Shell/Golang
 - Building software from zero to one
-- Design thinking for product/life
+- EVM-based(Ethereum, Vechain, QTUM, Quorum) DevOps/application (2018)
 
-> currently live in San Francisco(my favorite city), let's meet ☕.
+> currently live in San Francisco, my favorite city. 
+> Let's meet ☕.
