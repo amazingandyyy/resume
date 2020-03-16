@@ -1,5 +1,8 @@
+<h3 align="center">
+🦄
+</h3>
 <h1 align="center">
-Andy Chen 🦄
+Andy Chen
 </h1>
 <p align="center">
 End-to-end software architect
