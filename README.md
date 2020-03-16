@@ -13,7 +13,7 @@ End-to-end software architect
       <img height="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
    </a>
    <a href="https://www.linkedin.com/in/amazingandyyy">
-      <img height="20px" src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />
+      <img height="20px" src="https://img.freepik.com/free-icon/linkedin-logo-with-rounded-corners_318-9541.jpg?size=338&ext=jpg" />
    </a>
 </p>
 
