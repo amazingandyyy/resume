@@ -30,6 +30,8 @@
 - [ ] Confluent Certification for Apache Kafka (CCDAK)
   - https://prod.examity.com/Confluent/Student/ScheduleAnExam.aspx
   - https://medium.com/@stephane.maarek/how-to-prepare-for-the-confluent-certified-developer-for-apache-kafka-ccdak-exam-ab081994da78
+- [ ] HashiCorp Infrastructure Automation Certification
+  - https://www.hashicorp.com/certification/terraform-associate
 - [ ] OpenJS Node.js Services Developer (JSNSD)
   - https://training.linuxfoundation.org/certification/jsnsd/
 - [ ] Docker Certified Associate (DCA)
