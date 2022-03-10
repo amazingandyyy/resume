@@ -24,7 +24,7 @@ on the road
 
 ## Resume
 
-👉 Find my latest [resume](https://amazingandyyy.com/resume/Andy_Chen_Resume_2021.pdf)
+👉 Find my latest [resume](https://amazingandyyy.com/resume/Andy_Chen_Resume_2022.pdf)
 
 ## A.K.A **amazingandyyy**
 - 🦄 Me: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)
