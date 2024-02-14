@@ -24,7 +24,7 @@ on the road
 
 ## Resume
 
-👉 Find my latest [resume](https://amazingandyyy.com/resume/Andy_Chen_Resume_2022.pdf)
+👉 Find my latest [resume](https://amazingandyyy.com/resume/Andy_Chen_Resume_2024.pdf)
 
 ## A.K.A **amazingandyyy**
 - 🦄 Me: [https://www.amazingandyyy.com](https://www.amazingandyyy.com)
@@ -41,7 +41,7 @@ on the road
 ## My passions are
 - Initiate project and launch software
 - Software infra/architect/dev tooling
-- Software Engineer, web specific
+- Software Engineer, web-specific
 - Node/Typescript/Shell/Golang
 - Building software from zero to one
 - EVM-based(Ethereum, Vechain, QTUM, Quorum) DevOps/application (2018)
